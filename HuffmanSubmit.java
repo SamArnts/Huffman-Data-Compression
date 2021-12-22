@@ -290,8 +290,6 @@ public class HuffmanSubmit implements Huffman {
       Huffman  huffman = new HuffmanSubmit();
 		huffman.encode("alice30.txt", "alice.enc" , "freq.txt");
 		huffman.decode("alice.enc", "alice_new.txt", "freq.txt");
-		// After decoding, both ur.jpg and ur_dec.jpg should be the same. 
-		// On linux and mac, you can use `diff' command to check if they are the same. 
    }
 
 }

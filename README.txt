@@ -22,5 +22,3 @@ Compile:
 
 Run:
 > java HuffmanSubmit.java
-
-(I tested the code using the main method provided in the assingment instructions.)
